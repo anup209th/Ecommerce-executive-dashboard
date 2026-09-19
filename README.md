@@ -4,12 +4,6 @@ An end-to-end Power BI business intelligence solution designed to monitor macro 
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
-
----
-
 ## 🎯 Project Overview
 
 Modern e-commerce operations often suffer from siloed reporting where top-line financial performance is decoupled from fulfillment bottlenecks and customer retention dynamics. 
